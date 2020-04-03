@@ -1,0 +1,28 @@
+input {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    width: 192px;
+    border: 1px solid red;
+    visibility: hidden;
+    
+}
+
+.hidden {
+    visibility: hidden;
+}
+.container {
+    height: 20px;
+    width: 200px;
+    border: 1px solid black;
+    margin-right: 10px;
+}
+
+body > div {
+    display: flex;
+}
+
+li {
+    list-style-type: none;
+    cursor: pointer;
+}
