@@ -1,2 +1,2 @@
-# filter-dropbox
- block of filtration
+ block of filtration by 2 simbols /
+ учебный проект - блок фильтации списка городов при вводе не меньше 2х символов + вывод всего списка городов по кнопке.
